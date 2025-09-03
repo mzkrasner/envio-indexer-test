@@ -1,0 +1,5 @@
+
+
+> @recall/envio-indexer@0.1.0 build /Users/markkrasner/js-recall/apps/envio-indexer
+> tsc --build
+
